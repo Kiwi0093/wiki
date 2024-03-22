@@ -1,5 +1,5 @@
-http://kiwi0093.github.io/wiki/wiki/Misc/Tmux/1-Tmux+oh-my-tmux/
 http://kiwi0093.github.io/wiki/wiki/Linux/WSL/3-WSL_&_WSLg_Tip_for_ArchWSL/
+http://kiwi0093.github.io/wiki/wiki/Misc/Tmux/1-Tmux+oh-my-tmux/
 http://kiwi0093.github.io/wiki/wiki/Misc/Zsh/1-Zsh&Powerlevel10k/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/2-traefik/
 http://kiwi0093.github.io/wiki/wiki/Network/Hexo/1.introduce/

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/1-PhotonOS/</loc>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS/1-PhotonOS/</loc>
     
     <lastmod>2026-02-04</lastmod>
     
@@ -173,24 +173,6 @@
   </url>
   
   <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/2-Basic%20Tools/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/3-Docker_Commands/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/1-certbot/</loc>
     
     <lastmod>2025-06-09</lastmod>
@@ -309,6 +291,24 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/7-Uptime-kuma/</loc>
+    
+    <lastmod>2025-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Docker%20Basic/2-Basic%20Tools/</loc>
+    
+    <lastmod>2025-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Docker%20Basic/3-Docker_Commands/</loc>
     
     <lastmod>2025-06-09</lastmod>
     
@@ -1266,13 +1266,6 @@
   </url>
   
   <url>
-    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/PhotonOS-Docker-Basic/</loc>
-    <lastmod>2026-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://kiwi0093.github.io/wiki/categories/Game/PC/</loc>
     <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1351,6 +1344,20 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Docker-Basic/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/PhotonOS/</loc>
     <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

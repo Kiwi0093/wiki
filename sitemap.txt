@@ -1,4 +1,4 @@
-http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/1-PhotonOS/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS/1-PhotonOS/
 http://kiwi0093.github.io/wiki/tags/index.html
 http://kiwi0093.github.io/wiki/source/categories/index.html
 http://kiwi0093.github.io/wiki/source/about/index.html
@@ -17,8 +17,6 @@ http://kiwi0093.github.io/wiki/wiki/Network/V2Ray/2-VLESS_Server_config/
 http://kiwi0093.github.io/wiki/wiki/Network/V2Ray/3-VLESS_Client_config/
 http://kiwi0093.github.io/wiki/wiki/Network/V2Ray/4-v2ray_behide_traefik/
 http://kiwi0093.github.io/wiki/wiki/Network/V2Ray/5-V2ray_via_CF_worker/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/2-Basic%20Tools/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS%20&%20Docker%20Basic/3-Docker_Commands/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/1-certbot/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/2-traefik/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/3-nginx-proxy-manager/
@@ -33,6 +31,8 @@ http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/5-guacamole/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/6-Gitea/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/7-Uptime-kuma/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Docker%20Basic/2-Basic%20Tools/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Docker%20Basic/3-Docker_Commands/
 http://kiwi0093.github.io/wiki/wiki/Misc/Shell%20Script/2-echo/
 http://kiwi0093.github.io/wiki/wiki/Misc/Shell%20Script/3-var/
 http://kiwi0093.github.io/wiki/wiki/Misc/Shell%20Script/4-loop/
@@ -150,7 +150,6 @@ http://kiwi0093.github.io/wiki/categories/Misc/Vim/NeoVim-NvChad/
 http://kiwi0093.github.io/wiki/categories/Linux/WSL/ManjaroWSL/
 http://kiwi0093.github.io/wiki/categories/Network/Hexo/
 http://kiwi0093.github.io/wiki/categories/Network/V2Ray/
-http://kiwi0093.github.io/wiki/categories/VM-Container/PhotonOS-Docker-Basic/
 http://kiwi0093.github.io/wiki/categories/Game/PC/
 http://kiwi0093.github.io/wiki/categories/Network/Ansible/
 http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/
@@ -163,3 +162,5 @@ http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Common/
 http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Other/
 http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/VPS/
 http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/
+http://kiwi0093.github.io/wiki/categories/VM-Container/Docker-Basic/
+http://kiwi0093.github.io/wiki/categories/VM-Container/PhotonOS/

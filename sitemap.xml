@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/14-MS-SQL-Server/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/5-guacamole/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/4-phpBB/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/3-Node-Red/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/2-librenms/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/1-certbot/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/VPS/3-Nextcloud/</loc>
     
     <lastmod>2026-02-05</lastmod>
@@ -182,33 +236,6 @@
   </url>
   
   <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/2-librenms/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/4-phpBB/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/3-Node-Red/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kiwi0093.github.io/wiki/about/index.html</loc>
     
     <lastmod>2025-06-09</lastmod>
@@ -291,33 +318,6 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Docker%20Basic/3-Docker_Commands/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/1-certbot/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/5-guacamole/</loc>
-    
-    <lastmod>2025-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/14-MS-SQL-Server/</loc>
     
     <lastmod>2025-06-09</lastmod>
     

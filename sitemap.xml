@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/3-auto-chasing-drama/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/3-navidrome/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/8-suwayomi/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/4-calibre-web/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/Reserve%20Proxy/1-traefik/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/Reserve%20Proxy/2-nginx-proxy-manager/</loc>
+    
+    <lastmod>2026-02-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/14-MS-SQL-Server/</loc>
     
     <lastmod>2026-02-05</lastmod>
@@ -92,15 +146,6 @@
   </url>
   
   <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/8-suwayomi/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/7-Uptime-kuma/</loc>
     
     <lastmod>2026-02-05</lastmod>
@@ -111,33 +156,6 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/6-Gitea/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/3-navidrome/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/4-calibre-web/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/3-auto-chasing-drama/</loc>
     
     <lastmod>2026-02-05</lastmod>
     
@@ -165,24 +183,6 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/3-isso/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/2-nginx-proxy-manager/</loc>
-    
-    <lastmod>2026-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/1-traefik/</loc>
     
     <lastmod>2026-02-05</lastmod>
     
@@ -1374,6 +1374,34 @@
   
   <url>
     <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Not-Use-Anymore/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Common/Reserve-Proxy/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

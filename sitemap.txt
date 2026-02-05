@@ -1,3 +1,9 @@
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/3-auto-chasing-drama/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/3-navidrome/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/8-suwayomi/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/4-calibre-web/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/Reserve%20Proxy/1-traefik/
+http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/Reserve%20Proxy/2-nginx-proxy-manager/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/14-MS-SQL-Server/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/5-guacamole/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Not%20Use%20Anymore/4-phpBB/
@@ -8,17 +14,11 @@ http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/VPS/3-Nextc
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/VPS/2-Bookstack/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/VPS/1-portainer-ce-agent/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Other/1-vlmcsd/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/8-suwayomi/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/7-Uptime-kuma/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/6-Gitea/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/3-navidrome/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/4-calibre-web/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/3-auto-chasing-drama/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/2-heimdall/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Home%20Lab/1-Wireguard/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/3-isso/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/2-nginx-proxy-manager/
-http://kiwi0093.github.io/wiki/wiki/VM&Container/Service%20Container/Common/1-traefik/
 http://kiwi0093.github.io/wiki/wiki/VM&Container/PhotonOS/1-PhotonOS/
 http://kiwi0093.github.io/wiki/tags/index.html
 http://kiwi0093.github.io/wiki/source/categories/index.html
@@ -166,3 +166,7 @@ http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-La
 http://kiwi0093.github.io/wiki/categories/VM-Container/Docker-Basic/
 http://kiwi0093.github.io/wiki/categories/VM-Container/PhotonOS/
 http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Not-Use-Anymore/
+http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/
+http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Common/Reserve-Proxy/
+http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E6%9B%B8%E7%B1%8D%E9%A1%9E/
+http://kiwi0093.github.io/wiki/categories/VM-Container/Service-Container/Home-Lab/%E5%A4%9A%E5%AA%92%E9%AB%94%E7%9B%B8%E9%97%9C/%E5%BD%B1%E9%9F%B3%E9%A1%9E/
